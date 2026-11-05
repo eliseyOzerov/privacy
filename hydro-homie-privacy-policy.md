@@ -1,45 +1,60 @@
 # Privacy Policy for Hydro Homie
 
-**Last Updated: May 28, 2025**
+**Last Updated: November 4, 2026**
 
 ## Introduction
 
-Hydro Homie ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the Hydro Homie mobile application.
+Hydro Homie ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the Hydro Homie app, its widgets, its Apple Watch app and its App Clip.
 
 ## Information We Collect
 
 ### Data You Provide
 
-- **Water intake entries**: Timestamps, amounts, and drink types you manually log
-- **Volume preferences**: Custom drink sizes you create or modify
-- **App settings**: Your personal preferences within the app
+- **Water intake entries**: Timestamps, amounts, and drink types you log
+- **Bottles**: The drink sizes you save
+- **Goal and routine**: Your weight, daily goal, wake-up time, bedtime and the habits you choose to tie drinking to
+- **Shared tank name**: The name you choose to show, if you join a shared tank
 
-### Automatically Collected Data
+### Apple Health (only if you connect it)
 
-- **Device information**: Basic device data required for iCloud synchronization
-- **Usage data**: App performance data to ensure proper functionality
+- **Read**: Water, sleep and workouts. Sleep is used to estimate your bedtime; workouts are used to adjust your goal and send a message after a workout
+- **Write**: The water you log
+
+Health data is never used for advertising and is never sent to us.
+
+### Location and Weather (only if you turn on the matching sky or the adaptive goal)
+
+Your approximate location is used to ask Apple Weather for your local weather, so Homie's sky can match it and, with Homie+, your goal can go up on hot days. We don't store your location.
+
+### Data We Do Not Collect
+
+We don't run servers that receive your data, and we don't use analytics, advertising or tracking. Purchases are handled by Apple, and we never see your payment details.
 
 ## How We Use Your Information
 
 We use your information solely to:
 
-- Provide water tracking functionality
+- Provide water tracking, your streak and your reminders
 - Sync your data across your Apple devices via iCloud
-- Maintain and improve app performance
+- Show your progress to the people in a shared tank, if you join one
 - Provide customer support when requested
+
+Reminders are scheduled on your device. Where your device supports Apple Intelligence and you have Homie+, messages may be reworded by a model that runs on your device, and nothing is sent anywhere for this.
 
 ## Data Storage and Security
 
-- **Local Storage**: Your data is stored locally on your device
+- **Local Storage**: Your data is stored on your device
 - **iCloud Sync**: Data is synchronized to your personal iCloud account managed by Apple Inc.
 - **No Third-Party Servers**: We do not store your personal data on our own servers
 - **Security**: We rely on Apple's industry-standard security measures for data protection
 
 ## Data Sharing
 
-We do not sell, trade, or share your personal information with third parties, except:
+We do not sell or trade your personal information. It only leaves your devices in these cases:
 
 - **Apple iCloud**: For synchronization across your devices
+- **Shared tanks**: If you create or join one, the other people in it can see your chosen name, today's amount, your goal and any nudges you send. This goes through Apple's iCloud sharing. Leaving the tank stops it
+- **Apple Weather**: Your approximate location is sent to Apple to get your weather, if you turn on the matching sky or the adaptive goal
 - **Legal Requirements**: If required by law or to protect our rights
 
 ## Your Rights and Choices
@@ -48,7 +63,7 @@ We do not sell, trade, or share your personal information with third parties, ex
 
 - **Access**: View all your data within the app
 - **Modify**: Edit or delete individual entries
-- **Delete**: Remove all data by deleting the app
+- **Delete**: Remove data on your device by deleting the app, and remove synced data in your iCloud settings
 - **Export**: Contact us for data export assistance
 
 ### EU Users (GDPR Rights)
@@ -72,6 +87,10 @@ Hydro Homie does not knowingly collect personal information from children under 
 ### Apple iCloud
 
 We use Apple's iCloud service to sync your data across devices. Apple's privacy policy governs their handling of your data: https://www.apple.com/privacy/
+
+### Apple Health, Apple Weather and App Store
+
+Health data stays under your control in the Health app. Weather comes from Apple Weather. Subscriptions and purchases are handled by the App Store, under Apple's privacy policy.
 
 ### No Analytics or Advertising
 
