@@ -1,6 +1,9 @@
 # Privacy Policy for Hydro Homie
 
-**Last Updated: November 4, 2026**
+This policy now lives at https://hydrohomie.app/privacy
+
+
+**Last Updated: November 6, 2026**
 
 ## Introduction
 
@@ -76,7 +79,7 @@ If you are located in the European Union, you have additional rights:
 - **Right to Data Portability**: Receive your data in a portable format
 - **Right to Object**: Object to processing of your personal data
 
-To exercise these rights, contact us at eliseyozerov@icloud.com.
+To exercise these rights, contact us at support@hydrohomie.app.
 
 ## Children's Privacy
 
@@ -117,7 +120,7 @@ We may update this Privacy Policy from time to time. We will notify you of any m
 
 If you have questions about this Privacy Policy or our privacy practices, please contact us at:
 
-**Email**: eliseyozerov@icloud.com  
+**Email**: support@hydrohomie.app  
 **LinkedIn**: https://www.linkedin.com/in/eliseyozerov/
 
 ---

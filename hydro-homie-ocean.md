@@ -12,4 +12,6 @@ We pick ocean charities that work on clean seas and coasts. Each month's donatio
 |---|---|---|---|---|
 | November 2026 | First month, posted in December | | | |
 
-Questions: eliseyozerov@icloud.com
+Questions: support@hydrohomie.app
+
+This page now lives at https://hydrohomie.app/ocean
